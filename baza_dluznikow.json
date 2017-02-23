@@ -1,0 +1,1 @@
+{"databaseName":"baza_dlugow","debt":[{"id":1,"dateCreate":1487879233610,"value":235435,"currency":"USD","debtorName":"Adam","debtorSurname":"Kowalski","debtorPesel":"344323","creditorName":"Emil","creditorSurname":"Nowak","creditorPesel":"43243443243","clientType":"d","creditType":"samochodowy","checkPayoff":false}],"saveIndex":2}
